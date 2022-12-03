@@ -9,7 +9,6 @@ const SApp = styled.div`
   justify-content: center;
   width: 100vw;
   height: 100vh;
-  border: 1px solid black;
 `
 
 function App() {
